@@ -1,4 +1,4 @@
-# MyResearchProject_R
+# Multidimensional-Mass-Spectral-Similarity_R
 
 ## Preamble
 This repository contains the code for the paper titled "Multidimensional Mass Spectra Similarity Algorithm: Discriminate Isomer Coupled with Online Energy-Resolved Acquisition and Electron Activation Dissociation". The project focuses on developing multidimensional spectra similarity algorithm to enhance compound annotation accuracy.

@@ -19,8 +19,8 @@ The code and sample data in this study have been made accessible in this reposit
 1. Download and install R with R studio.
 
 2. Install the packages required.
-## install packages: MSnbase_2.32.0, dplyr_1.1.4, SnowballC_0.7.1, lsa_0.73.3, ggplot2_3.5.1, PRROC_1.3.1, pROC_1.18.5, reshape2_1.4.4
-## install.packages("**")
+### install packages: MSnbase_2.32.0, dplyr_1.1.4, SnowballC_0.7.1, lsa_0.73.3, ggplot2_3.5.1, PRROC_1.3.1, pROC_1.18.5, reshape2_1.4.4
+### install.packages("**")
 
 3. Run the code
 
